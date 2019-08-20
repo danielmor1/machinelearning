@@ -6,7 +6,7 @@
 
 ![Teaser image](./stylegan-teaser.png)
 **Picture:** *These people are not real &ndash; they were produced by our generator that allows control over different aspects of the image.*
-
+dd
 This repository contains the official TensorFlow implementation of the following paper:
 
 > **A Style-Based Generator Architecture for Generative Adversarial Networks**<br>
